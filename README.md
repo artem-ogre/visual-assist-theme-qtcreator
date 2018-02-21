@@ -1,4 +1,4 @@
-# Dracula for [Qt Creator](http://qt.io/ide)
+# Visual Assist enhanced syntax highlighting for [Qt Creator](http://qt.io/ide)
 
 A dark theme for [Qt Creator](http://qt.io/ide) insprired by Visual Assist enhanced syntax highlighting in Visual Studio.
 
