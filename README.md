@@ -1,4 +1,4 @@
-## Enhanced syntax highlighting for [Qt Creator](http://qt.io/ide)
+## Enhanced syntax highlighting for Qt Creator
 
 A dark theme for [Qt Creator](http://qt.io/ide) insprired by [Visual Assist's](https://www.wholetomato.com/) enhanced syntax highlighting in Visual Studio.
 
