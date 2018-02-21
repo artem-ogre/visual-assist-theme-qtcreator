@@ -1,21 +1,17 @@
 # Dracula for [Qt Creator](http://qt.io/ide)
 
-> A dark theme for [Qt Creator](http://qt.io/ide).
+A dark theme for [Qt Creator](http://qt.io/ide) insprired by Visual Assist enhanced syntax highlighting in Visual Studio.
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/qtcreator.png)
+![Screenshot](screenshots/Screenshot.png "Qt Creator with enhanced syntax highlighting")
 
-## Install
+## Installation
 
-All instructions can be found at [draculatheme.com/qtcreator](https://draculatheme.com/qtcreator).
+Copy the `visual-assist-enhanced-syntax.xml` file into the Qt Creator styles directory:
 
-## Team
+- Unix: `~/.config/QtProject/qtcreator/styles`
+- macOS: `~/.config/QtProject/qtcreator/styles`
+- Windows XP: `<drive>:\Documents and Settings\<username>\Application Data\QtProject\qtcreator\styles`
+- Windows Vista/7/10: `<drive>:\Users\<username>\AppData\Roaming\QtProject\qtcreator\styles`
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/qtcreator/graphs/contributors).
+In Qt Creator go to **Tools -> Options -> Text Editor -> Font & Colors** and select **"Visual Assist Enhanced Syntax Highlighting"** under **"Color Scheme"**.
 
-[![Ergenekon Yigit](https://avatars1.githubusercontent.com/u/7110136?v=3&s=70)](https://github.com/ergenekonyigit) |
---- |
-[Ergenekon Yigit](https://github.com/ergenekonyigit) |
-
-## License
-
-[MIT License](./LICENSE)
