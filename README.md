@@ -13,5 +13,5 @@ Copy the `visual-assist-enhanced-syntax.xml` file into the Qt Creator styles dir
 - Windows XP: `<drive>:\Documents and Settings\<username>\Application Data\QtProject\qtcreator\styles`
 - Windows Vista/7/10: `<drive>:\Users\<username>\AppData\Roaming\QtProject\qtcreator\styles`
 
-In Qt Creator go to **Tools -> Options -> Text Editor -> Font & Colors** and select **"Visual Assist Enhanced Syntax Highlighting"** under **"Color Scheme"**.
+In Qt Creator go to **`Tools -> Options -> Text Editor -> Font & Colors`** and select "Visual Assist Enhanced Syntax Highlighting" under "Color Scheme".
 
