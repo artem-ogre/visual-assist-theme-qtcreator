@@ -10,10 +10,10 @@ A dark theme for [Qt Creator](http://qt.io/ide) insprired by [Visual Assist's](h
 
 1. Copy the `visual-assist-enhanced-syntax.xml` file into the Qt Creator styles directory:
 
-  - Linux/Unix: `~/.config/QtProject/qtcreator/styles`
-  - macOS: `~/.config/QtProject/qtcreator/styles`
-  - Windows XP: `<drive>:\Documents and Settings\<username>\Application Data\QtProject\qtcreator\styles`
-  - Windows Vista/7/10: `<drive>:\Users\<username>\AppData\Roaming\QtProject\qtcreator\styles`
+    - Linux/Unix: `~/.config/QtProject/qtcreator/styles`
+    - macOS: `~/.config/QtProject/qtcreator/styles`
+    - Windows XP: `<drive>:\Documents and Settings\<username>\Application Data\QtProject\qtcreator\styles`
+    - Windows Vista/7/10: `<drive>:\Users\<username>\AppData\Roaming\QtProject\qtcreator\styles`
 
 2. In Qt Creator go to `Tools ⟶ Options ⟶ Text Editor ⟶ Font & Colors` and select "Visual Assist Enhanced Syntax Highlighting" under "Color Scheme".
 
