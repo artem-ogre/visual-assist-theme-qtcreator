@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Visual Assist Enhanced Syntax Highlighting">
+<style-scheme version="1.0" name="Visual Assist X Enhanced Highlighting">
   <style name="Text" foreground="#b4b4b4" background="#222222"/>
   <style name="Link" foreground="#589df6"/>
   <style name="Selection" background="#0a2a50"/>
@@ -10,7 +10,7 @@
   <style name="ParenthesesMismatch" background="#ff00ff"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
   <style name="CurrentLine"/>
-  <style name="CurrentLineNumber" foreground="#4279a7" bold="true"/>
+  <style name="CurrentLineNumber" foreground="#4279a7"/>
   <style name="Occurrences" foreground="#000000" background="#729fcf"/>
   <style name="Occurrences.Unused" foreground="#808000"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
@@ -60,5 +60,6 @@
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
   <style name="Declaration"/>
-  <style name="OutputArgument" foreground="#000000" background="#ffffff" italic="true"/>
+  <style name="FunctionDefinition"/>
+  <style name="OutputArgument" italic="true"/>
 </style-scheme>
