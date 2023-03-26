@@ -5,9 +5,12 @@
   <style name="Selection" background="#0a2a50"/>
   <style name="LineNumber" foreground="#4279a7" background="#2e2f30"/>
   <style name="SearchResult" background="#5b6217"/>
+  <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
+  <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
+  <style name="SearchResultContainingFunction"/>
   <style name="SearchScope" background="#214283"/>
   <style name="Parentheses" foreground="#ffffff" bold="true"/>
-  <style name="ParenthesesMismatch" background="#ff00ff"/>
+  <style name="ParenthesesMismatch" background="#700070"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
   <style name="CurrentLine"/>
   <style name="CurrentLineNumber" foreground="#4279a7"/>
@@ -17,7 +20,9 @@
   <style name="Number" foreground="#b5cea8"/>
   <style name="String" foreground="#d69d85"/>
   <style name="Type" foreground="#ffd700"/>
+  <style name="Namespace" foreground="#ffd700"/>
   <style name="Local" foreground="#bdb76b"/>
+  <style name="Parameter" foreground="#1778ff"/>
   <style name="Global" foreground="#bdb76b" italic="true"/>
   <style name="Field" foreground="#bdb76b"/>
   <style name="Static" foreground="#bd63c5"/>
@@ -26,7 +31,10 @@
   <style name="Keyword" foreground="#569cd6"/>
   <style name="PrimitiveType" foreground="#569cd6"/>
   <style name="Operator" foreground="#cccccc"/>
+  <style name="Overloaded Operator" foreground="#00a8ca"/>
+  <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#bd63c5"/>
+  <style name="Macro" foreground="#ff8000"/>
   <style name="Label" foreground="#e76000"/>
   <style name="Comment" foreground="#57a64a"/>
   <style name="Doxygen.Comment" foreground="#57a64a"/>
@@ -55,6 +63,11 @@
   <style name="DiffDestLine" background="#277027"/>
   <style name="DiffDestChar" background="#339d33"/>
   <style name="LogChangeLine" foreground="#c00000"/>
+  <style name="LogAuthorName" foreground="#007af4"/>
+  <style name="LogCommitDate" foreground="#006600"/>
+  <style name="LogCommitHash" foreground="#ff0000"/>
+  <style name="LogCommitSubject"/>
+  <style name="LogDecoration" foreground="#ff00ff"/>
   <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
@@ -62,4 +75,15 @@
   <style name="Declaration"/>
   <style name="FunctionDefinition"/>
   <style name="OutputArgument" italic="true"/>
+  <style name="StaticMember"/>
+  <style name="CocoCodeAdded"/>
+  <style name="CocoPartiallyCovered" foreground="#808000"/>
+  <style name="CocoNotCovered" foreground="#ff0000"/>
+  <style name="CocoFullyCovered" foreground="#00ff00"/>
+  <style name="CocoManuallyValidated" foreground="#0000ff"/>
+  <style name="CocoDeadCode" foreground="#ff00ff"/>
+  <style name="CocoExecutionCountTooLow" foreground="#ff0000"/>
+  <style name="CocoNotCoveredInfo" foreground="#ff0000"/>
+  <style name="CocoCoveredInfo" foreground="#00ff00"/>
+  <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
 </style-scheme>
