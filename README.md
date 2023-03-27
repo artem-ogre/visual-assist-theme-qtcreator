@@ -4,7 +4,7 @@ A dark theme for [Qt Creator](http://qt.io/ide) insprired by [Visual Assist's](h
 
 **Updated version for Qt Creator 9.0.2 and newer. This fork fixes some unreadable texts when using Qt Creator dark themes.**
 
-![Screenshot](screenshots/Screenshot.png "Qt Creator with enhanced syntax highlighting")
+![Screenshot](screenshots/NewScreenshot.png "Qt Creator with enhanced syntax highlighting")
 
 ## Installation
 
